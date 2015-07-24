@@ -19,7 +19,8 @@ color:
   brandStrength: 0
   lightness: 0.5
   saturation: 0.5
+  rhythmicContrast: 0.5
 purpose:
   - name: follow
-    item: 27219a6f-4e26-4db9-b673-23cc32d62db2
+    item: 044cba12-5107-454b-8f95-0ba634028d73
     url: null
