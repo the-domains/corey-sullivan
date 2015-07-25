@@ -22,9 +22,9 @@ color:
     - '#a9acb1'
     - '#0075fc'
   brandStrength: 0
-  lightness: 0.0625
-  saturation: 0.875
-  rhythmicContrast: 0.25
+  lightness: 0.5
+  saturation: 0.5625
+  rhythmicContrast: 1
 purpose:
   - name: follow
     item: d8193edc-bb19-4c5f-a24d-7907f048c65e
