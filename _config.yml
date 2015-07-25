@@ -1,7 +1,7 @@
 name: null
 favicon: null
-layout_spectrum: 0.74907
-typography_spectrum: 0.50743
+layout_spectrum: 1
+typography_spectrum: 0.00929
 cta:
   domain: null
   bucket: null
@@ -22,10 +22,10 @@ color:
     - '#c5beaf'
     - '#d56063'
   brandStrength: 0
-  lightness: 0.5
-  saturation: 0
-  rhythmicContrast: 0.5
+  lightness: 0.0625
+  saturation: 0.875
+  rhythmicContrast: 0.25
 purpose:
   - name: follow
-    item: 044cba12-5107-454b-8f95-0ba634028d73
+    item: d8193edc-bb19-4c5f-a24d-7907f048c65e
     url: null
