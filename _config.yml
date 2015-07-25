@@ -1,7 +1,7 @@
 name: null
 favicon: null
-layout_spectrum: 0.49628
-typography_spectrum: 0.22862
+layout_spectrum: 0.74907
+typography_spectrum: 0.50743
 cta:
   domain: null
   bucket: null
@@ -23,7 +23,7 @@ color:
     - '#d56063'
   brandStrength: 0
   lightness: 0.5
-  saturation: 0.5
+  saturation: 0
   rhythmicContrast: 0.5
 purpose:
   - name: follow
