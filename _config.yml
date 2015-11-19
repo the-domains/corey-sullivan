@@ -1,4 +1,4 @@
-name: null
+name: Corey Sullivan
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.75279
@@ -21,9 +21,9 @@ color:
     - '#5d616a'
     - '#a9acb1'
     - '#0075fc'
-  brandStrength: 0
-  lightness: 0.5
-  saturation: 0.0625
+  brandStrength: 0.5
+  lightness: 0.25
+  saturation: 0.5
   rhythmicContrast: 1
 purpose:
   - name: follow
